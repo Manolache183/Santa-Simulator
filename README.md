@@ -1,6 +1,6 @@
 Manolache Marius-Alexandru, 323CA
 
-First, the directory's:
+First, the directorys:
 
 - children: contains a Child, which is a Visitable Class used for storing children information,
 extended by the Baby, Kid and Teen classes,
